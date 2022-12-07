@@ -1,6 +1,6 @@
 const myNewObj = {
     name: 'steve',
-    car: 'toyota',
+    car: 'honda',
     state: 'utah'
 }
 
