@@ -1,7 +1,7 @@
 const myNewObj = {
     name: 'steve',
-    car: 'honda',
-    state: 'utah'
+    car: 'ford',
+    state: 'california'
 }
 
 const myNewFunc = (anObject: object) => {
